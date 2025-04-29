@@ -1,6 +1,0 @@
-"THANKS FOR USING WATER GUI!\n" +
-"• VERSION: <color=blue>1.1</color>\n" +
-"• OWNER: <color=blue>Dodo</color>\n\n" +
-"CREDITS:\n" +
-"• ASSET BUNDLE STUFF: <color=blue>iiDk</color>\n\n\n" +
-$"• STATUS: {statusDisplay}"
